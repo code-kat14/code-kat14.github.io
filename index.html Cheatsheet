@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="./css/index.css" type="text/css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML & CSS Cheatcheet</title>
+</head>
+<body>
+    <h2>HTML</h2>
+<!--HTML tag explaination Table-->
+        <table>
+            
+            <tbody>
+            <tr>
+                <td colspan="2">&ltDIV&gt</td>
+                <td>A generic tool to separate content, a new DIV tag will start a new line.</td>
+            </tr>
+            <tr>
+                <td colspan="2">&ltSPAN&gt</td>
+                <td>The span element is used to group elements and text together for styling, it is often wrapped inside another elements or tag.</td>
+            </tr>
+            <tr>
+                <td colspan="2">&ltLINK&gt</td>
+                <td>The LINK tag connects the current web page with an eternal file like a stylesheet, or library.</td>
+            </tr>
+            <tr>
+                <td colspan="2">&lta&gt</td>
+                <td>The "anchor" tag is used to link another page or location on the webpage, you can also link contact information.</td>
+            </tr>
+        </tbody>
+        </table>
+         
+        <!--Css box model-->
+        <h2 class="boxmodel">CSS Box Model </h2>
+        <div>
+            <img src="images/box-model.png" alt="box model"/>
+        </div>
+    <div>
+        <h2>CSS Selectors</h2>
+        <ul>
+            <li>Class = <span class="selector">.selector </span>This can be reusable to many elements within an HTML document.</li>
+            <li>ID = <span class="idname">#idname</span> used for a single element that needs to be unique.</li>
+        </ul>
+    </div>
+</body>
+</htm 
