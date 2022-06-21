@@ -1,0 +1,40 @@
+body{
+    background-color: #705842;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: whitesmoke;
+    text-align: center;
+}
+
+table{
+    color: whitesmoke;
+    border: solid 2px;
+    align-self: auto;
+}
+
+ul{
+    color: whitesmoke;
+    align-content: center;
+}
+
+img{
+    
+    border-bottom: solid whitesmoke;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+    width: 70%;
+
+}
+
+
+.selector{
+    font-style:italic;
+
+}
+
+.idname{
+    font-style: italic;
+}
